@@ -1,13 +1,153 @@
-*{
-	box-sizing: border-box;
-}
-
-body{
+body, p{
 	font-family: 'Open Sans', sans-serif;
 	color: #686963;
 	font-size: 13px;
 }
 
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Raleway', sans-serif !important;
+	color: #686963;
+}
+
 .navbar_logo{
 	max-width: 230px;
+}
+
+.link{
+	color: #707070;
+}
+
+.link:hover {
+    color: #e56353;
+}
+
+.head{
+	background-color: #E56353;
+	border-radius: 0;
+	margin: 0;
+}
+
+.head_text_light{
+font-weight: 200;
+color: #fff;
+}
+
+.head_text_bold{
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.head_text_medium{
+	font-weight: 700;
+	color: #fff;
+}
+
+.info{
+	padding: 0;
+}
+
+.info_inner_primary, .info_inner_secundary, .info_inner_secundary_grey{
+	float: left;
+	padding:0;
+}
+
+.info_inner_secundary{
+	background-color: #707070;
+padding-top: 19vh;
+padding-bottom: 17vh;
+padding-left: 10vh;
+padding-right: 5vh;
+}
+
+.info_title{
+	font-weight: 700;
+}
+
+.info_title, .info_text{
+	color: #fff;
+}
+
+.info_inner_secundary_grey{
+	padding-top: 18vh;
+	padding-bottom: 17vh;
+	padding-left: 10vh;
+	padding-right: 5vh;
+}
+
+.info_title_grey{
+	font-weight: 700;
+}
+
+.info_title_grey, .info_text_grey{
+	color: #686963;
+}
+
+.us{
+	margin: 10%;
+}
+
+.us_inner{
+	float: left;
+}
+
+.us_inner_img{
+	max-width: 300px;
+}
+
+.us_inner_title{
+	font-weight: 700;
+}
+
+.head_btn{
+	font-family: 'Raleway', sans-serif;
+	background-color: #fff;
+	color: #686963;
+	font-size: 28px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 5px 10px;
+	border-radius: 40px;
+}
+
+.head_btn:hover{
+	color: #686963;
+}
+
+.foot{
+	background-color: #686963;
+	padding: 5%;
+	height: 200px;
+}
+
+.foot_inner{
+	float: left;
+	text-align: center;
+}
+
+.foot_logo{
+	max-width: 200px;
+}
+
+.foot_rrss{
+	background-color: #fff;
+	border-radius: 30px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding: 12px;
+	margin: 10px;
+}
+
+.foot_rrss i{
+	color: #686963
+
+}
+
+.foot_menu ul li {
+	text-decoration: none;
+	list-style: none;
+	color: #fff;
+	text-align: left;
+
 }
