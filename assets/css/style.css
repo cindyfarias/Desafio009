@@ -1,0 +1,13 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #686963;
+	font-size: 13px;
+}
+
+.navbar_logo{
+	max-width: 230px;
+}
