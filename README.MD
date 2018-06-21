@@ -21,19 +21,21 @@ Estan detalladas en el skecth.
 
 ### Estructura de directorio
 
+Sale boceteado en las imagenes anteriores. En definitiva es algo asi:
+
 TiaTomate
-	assets
-		css
-			style.css
+ assets
+  css
+    style.css
+  img
+    todas las fotos
 
-		img
-			todas las fotos
-
-	imgreadme
-		Fotos sacadas con el celular para el Desafio
+ imgreadme
+  todas las fotos que se usaron en el readme
 
 index.html
 about.html
+
 
 ### Dependencias
 Bootstrap
