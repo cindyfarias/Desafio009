@@ -53,11 +53,11 @@ color: #fff;
 }
 
 .info_inner_secundary{
-	background-color: #707070;
-padding-top: 19vh;
-padding-bottom: 17vh;
-padding-left: 10vh;
-padding-right: 5vh;
+    background-color: #707070;
+    padding-top: 12vh;
+    padding-left: 10vh;
+    padding-right: 5vh;
+        height: 61.5vh;
 }
 
 .info_title{
@@ -216,11 +216,9 @@ padding-right: 5vh;
 }
 
 @media (min-width: 768px) and (max-width: 991px){
-.info_inner_secundary, .info_inner_secundary_grey {
-    padding-top: 6vh;
-    padding-bottom: 6.3vh;
-    padding-left: 5vh;
-    padding-right: 5vh;
+
+.info_inner_primary {
+    display: none;
 }
 
 .us {
@@ -243,7 +241,7 @@ padding-right: 5vh;
 }
 
 
-@media (min-width: 992px) and (max-width: 1999px){ ... }
+@media (min-width: 992px) and (max-width: 1299px){ ... }
 
 
 @media (min-width: 1200px) { ... }
