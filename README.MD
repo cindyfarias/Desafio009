@@ -21,20 +21,7 @@ Estan detalladas en el skecth.
 
 ### Estructura de directorio
 
-Sale boceteado en las imagenes anteriores. En definitiva es algo asi:
-
-TiaTomate
- assets
-  css
-    style.css
-  img
-    todas las fotos
-
- imgreadme
-  todas las fotos que se usaron en el readme
-
-index.html
-about.html
+Sale boceteado en las imagenes anteriores. 
 
 
 ### Dependencias
