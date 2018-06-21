@@ -25,6 +25,6 @@ Sale boceteado en las imagenes anteriores.
 
 
 ### Dependencias
-Bootstrap
-Google Font
-Fontawesome
+1. Bootstrap
+2. Google Font
+3. Fontawesome
